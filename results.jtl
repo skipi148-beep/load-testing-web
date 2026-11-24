@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1795543452972,57,-9,200,OK,Thread Group 1-1,text,true,,1488,505,1,1,http://cinema.local:8000/client/index.php,53,0,27
+1795543453032,7,-10,200,OK,Thread Group 1-1,text,true,,1423,557,1,1,http://cinema.local:8000/client/index.php,7,0,0
+1795543453040,6,-11,200,OK,Thread Group 1-1,text,true,,1423,557,1,1,http://cinema.local:8000/client/index.php,6,0,0
+1795543452898,70,,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,4334,1619,1,1,null,66,78,27
+1795543453047,5,-12,200,OK,Thread Group 1-1,text,true,,338,568,1,1,http://cinema.local:8000/client/scripts/selectSeance.php,5,0,0
+1795543453053,2,-13,200,OK,Thread Group 1-1,text,true,,1392,582,1,1,http://cinema.local:8000/client/hall.php,2,0,0
+1795543453047,7,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1730,1150,1,1,null,7,2,0
+1795543453056,49,-16,200,OK,Thread Group 1-1,text,true,,338,10246,1,1,http://cinema.local:8000/client/scripts/reservation.php,49,0,0
+1795543453106,3,-17,200,OK,Thread Group 1-1,text,true,,1329,584,1,1,http://cinema.local:8000/client/payment.php,3,0,0
+1795543453056,52,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1667,10830,1,1,null,52,1,0
+1795543453109,25,-20,200,OK,Thread Group 1-1,text,true,,1663,1183,1,1,http://cinema.local:8000/client/ticket.php,5,0,0
+1795543453109,5,-20-0,302,Found,Thread Group 1-1,text,true,,366,597,1,1,http://cinema.local:8000/client/scripts/sale_save.php,5,0,0
+1795543453116,18,-20-1,200,OK,Thread Group 1-1,text,true,,1297,586,1,1,http://cinema.local:8000/client/ticket.php,18,0,0
+1795543453136,16,-21,200,OK,Thread Group 1-1,text,true,,1297,586,1,1,http://cinema.local:8000/client/ticket.php,15,0,0
+1795543453109,41,,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,2960,1769,1,1,null,20,2,0
